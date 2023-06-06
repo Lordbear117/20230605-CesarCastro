@@ -1,0 +1,150 @@
+ 1  $ls
+    2  ls
+    3  clear
+    4  ssh-keygen -t ed25519 -C blackyi_14@hotmail.com
+    5  ssh_keygen
+    6  ssh-keygen
+    7  .pub
+    8  ls -al ~/.ssh
+    9  cd C:\Users\cesar.castrop~
+   10  cd C:\Users\cesar.castrop
+   11  git clone git@github.com:Lordbear117/gen18d-intro-frontend-cesarcastro.git
+   12  git clone git@github.com:montoyaguzman/gen18d-intro-front-end.git
+   13  ls C:\Users\cesar.castrop\gen18d-intro-frontend-cesarcastro
+   14  ls C\Users\cesar.castrop\gen18d-intro-frontend-cesarcastro
+   15  ls
+   16  ls gen18d-intro-frontend-cesarcastro/
+   17  git push origin main
+   18  dir gen18d-intro-frontend-cesarcastro/
+   19  cd gen18d-intro-frontend-cesarcastro/
+   20  git push origin
+   21  npm init
+   22  git --v
+   23  clear
+   24  git --version
+   25  mkdir mercadoAbierto
+   26  cd mercadoAbierto
+   27  git init
+   28  git status
+   29  git add producto.js
+   30  git status
+   31  git commit -m "mi primer commit"
+   32  git add producto.js
+   33  git status
+   34  git commit -m "mi primer commit"
+   35  clear
+   36  git clone https://github.com/Lordbear117/mbc2023-daily-projects.git
+   37  cd mbc2023-daily-projects
+   38  git status
+   39  git add app.js
+   40  git status
+   41  git commit -m "mi primer commit"
+   42  git status
+   43  git --version
+   44  ls
+   45  git init
+   46  mkdir dhgit
+   47  cd dhgit
+   48  git init
+   49  git status
+   50  git add app.js
+   51  git status
+   52  git clone https://github.com/RodrigoLlull/Introduccion-a-la-informatica.git
+   53  cd https://github.com/RodrigoLlull/Introduccion-a-la-informatica.git
+   54  cd
+   55  ~
+   56  cd Introduccion-a-la-informatica
+   57  git --user
+   58  git status
+   59  git add
+   60  git add .
+   61  git reset
+   62  git config user.name "Lordbear117"
+   63  git config user.email "blackyi_14@hotmail.com"
+   64  git config --list
+   65  git add .
+   66  git status
+   67  git commit -m "Se borrran archivos para correccion"
+   68  git push
+   69  git add .
+   70  git commit -m "Se agregan 3 archivos nuevos"
+   71  git push
+   72  git add .
+   73  git status
+   74  git commit -m "Se suben cambios del cv"
+   75  git reset
+   76  Mkdir Actividades && mkdir Actividades/“Deportes de equipo” Actividades/“Deportes de mesa” Actividades/“Deportes de mente” Actividades/“Deportes acuáticos” && touch Actividades/“Deportrs de equipo”/Basket Actividades/“Deportes de mesa”/“Ping Pong” Actividades/“Deportes de mente”/Ajedrez.txt
+   77  Mkdir Actividades && mkdir Actividades/“Deportes de equipo” Actividades/“Deportes de mesa” Actividades/“Deportes de mente” Actividades/“Deportes acuáticos” && touch Actividades/“Deportes de equipo”/Basket Actividades/“Deportes de mesa”/“Ping Pong” Actividades/“Deportes de mente”/Ajedrez.txt
+   78  pwd
+   79  cd
+   80  ls
+   81  cd Downloads/
+   82  ls
+   83  cd "Nueva carpeta"/
+   84  ls
+   85  git init
+   86  git status
+   87  cd .
+   88  cd ..
+   89  git init
+   90  git clone https://github.com/Lordbear117/CTD-Git-Fake-Test.git
+   91  ls
+   92  cd  CTD-Git-Fake-Test/
+   93  git status
+   94  git commit -m First commit
+   95  git commit -m "First commit"
+   96  git add .
+   97  git status
+   98  git commit -m "First commit"
+   99  git push
+  100  git user.name Lordbear117
+  101  git config user.name Lordbear117
+  102  git config user.email blackyi_14@hotmail.com
+  103  git status
+  104  git add .
+  105  git commit -m "Entrega 2"
+  106  git push
+  107  git init
+  108  git config user.name "Lordbear117"
+  109  git config user.email "blackyi_14@hotmail.com"
+  110  git remote add origin https://github.com/Lordbear117/20230605-CesarCastro.git
+  111  git status
+  112  git status
+  113  git add .
+  114  git status
+  115  git commit -m "commit 01 de CesarCastro"
+  116  git status
+  117  git push
+  118  git reset
+  119  git status
+  120  git add .
+  121  git status
+  122  git reset -hard
+  123  git reset --hard
+  124  git status
+  125  git status
+  126  git status
+  127  git commit -m "commit 01 de CesarCastro"
+  128  git status
+  129  git branch -M main
+  130* git push origin
+  131  git checkout -b feature01
+  132  git reset
+  133  git status
+  134  mkdir Terminal
+  135  mkdir Hardware
+  136  git add .
+  137  git status
+  138  git commit -m "commit 02 de CesarCastro"
+  139  git push
+  140  git status
+  141  git push origin feature01
+  142  git pull
+  143  git checkout feature02
+  144  git add .
+  145  git commit -m "commit 03 de CesarCastro"
+  146  git push origin feature02
+  147  git checkout main
+  148  git history
+  149  git log
+  150  history
