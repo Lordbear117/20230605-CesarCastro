@@ -1,0 +1,8 @@
+git init
+git pull
+git push
+git commit -m "mensaje"
+git reset
+git checkout nombreRama
+git add . 
+git status
